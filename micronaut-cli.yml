@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: br.com.sonikro
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
